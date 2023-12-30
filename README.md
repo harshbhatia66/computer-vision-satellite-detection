@@ -1,1 +1,1 @@
-# computer-vision-satellite-detection
+Solar Vision
